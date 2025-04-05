@@ -25,7 +25,9 @@ This project demonstrates the deployment of Splunk Enterprise Security as a SIEM
 
 - **Splunk Enterprise Security (ES):** Centralized monitoring and alerting platform.
 - **Windows Event Logs:** Source for gathering workstation activity logs.
-- **Sysmon:** For capturing detailed endpoint activity.
+- **Ubuntu 22.04 VM :** Hosting our SPLUNK ES instance.
+- **Windows 10 workstation VM:** Endpoint in our infrastructre. 
+- **Sysmon:** This is for capturing detailed endpoint activity.
 - **Mimikatz:** Used as a case study for threat detection configuration.
 - **Supporting Tools:** PowerShell, regex matchers, and custom Python scripts for extended monitoring.
 
