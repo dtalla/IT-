@@ -7,14 +7,11 @@ In this case, we are deploying Splunk Enterprise Security (SPLUNK ES) on Ubuntu 
 
 ### Create user and directory.
 Once the Ubuntu server is up and running. Open the terminal and run the following commands: 
-*Switch to the root with elevated privileges*
+-**Switch to the root with elevated privileges**
  ```bash
 sudo su
    ```
-*Switch to the root with elevated privileges*
- ```bash
-sudo su
-   ```
+
 
 
 
