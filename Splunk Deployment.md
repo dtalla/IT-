@@ -68,7 +68,15 @@ Once complete, the /opt/splunk directory will be populated.
 
 
 ![Image](https://github.com/user-attachments/assets/e2427af5-c388-499a-9055-9b54ccec2154)
-   
-       
 
+
+Now access your splunk, look for the IP address of your Ubuntu VM. 
+
+```bash
+ip a
+  ```
+
+Then, on any web browser, navigate to "IPaddress:8000". You can log in with the SPLUNK user credential. The one used to create the instance. 
+       
+## Step 3: Set up our endpoint.
       
