@@ -49,15 +49,26 @@ Once the Ubuntu server is up and running. Open the terminal and run the followin
 Once complete, the /opt/splunk directory will be populated. 
  
   ### Start your Splunk instance.
-       Log in as the SPLUNK user and start your Splunk instance.
-       ```bash
+
+  Log in as the SPLUNK user and start your Splunk instance.
+
+     
+     
+       
        #change the SPLUNK user password first
        sudo passwd SPLUNK
        #log in as SPLUNK user
        su SPLUNK
        #start your splunk instance
        /opt/splunk/bin/splunk start --accept-license
-       ```
+
+
+
+
+
+
+![Image](https://github.com/user-attachments/assets/e2427af5-c388-499a-9055-9b54ccec2154)
+   
        
 
       
