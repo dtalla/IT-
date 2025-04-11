@@ -59,4 +59,6 @@ Once complete, the /opt/splunk directory will be populated.
        /opt/splunk/bin/splunk start --accept-license
        ```
 
-       ![Screenshot 2025-04-10 223939](https://github.com/user-attachments/assets/9360e935-8589-458a-8ead-8cfaa3595540)
+       ![Image](https://github.com/user-attachments/assets/e2427af5-c388-499a-9055-9b54ccec2154)
+
+      
