@@ -35,6 +35,6 @@ This project demonstrates the deployment of Splunk Enterprise Security as a SIEM
 
 To begin working with this project:
 
-1. Access this repository:  Splunk Deployment
+1. Access this repository:  https://github.com/dtalla/IT-/blob/SPLUNK-ES/Splunk%20Deployment.md
    
 
