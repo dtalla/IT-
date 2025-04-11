@@ -79,4 +79,6 @@ ip a
 Then, on any web browser, navigate to "IPaddress:8000". You can log in with the SPLUNK user credential. The one used to create the instance. 
        
 ## Step 3: Set up our endpoint.
+
+Check this directory https://github.com/dtalla/IT-/blob/SPLUNK-ES/Sysmon%20and%20Universal%20Forwarder.md
       
