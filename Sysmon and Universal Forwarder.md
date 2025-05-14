@@ -14,7 +14,7 @@
 - **Navigate to the directory and initiate the installation**
   ```bash 
     cd  $FILEPATH$
-    .\Sysmon64.exe -i .\sysmonconfigfile -acceteula
+    .\Sysmon64.exe -i .\sysmonconfigfile -accepteula
   ```
 
 
