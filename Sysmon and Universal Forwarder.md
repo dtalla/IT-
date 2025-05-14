@@ -126,11 +126,15 @@ Go ahead and restart the Splunk Forwarder service.
 Back on our splunk instance, open search and reporting. Execute the following search on a 5 min time range 
 
 ``
-index=="end-user"
+index="end-user"
 ``
 
 
 ![Image](https://github.com/user-attachments/assets/17d985b3-9103-4029-b527-aba19537c28c)
 
+
+
+Now we are going to proceed with the Mimikatz exploitation 
+https://github.com/dtalla/IT-/blob/SPLUNK-ES/Mimikatz%20Exploit
 
 
